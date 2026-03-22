@@ -666,7 +666,7 @@ const Sidebar = () => {
       <button
         onClick={toggleDesktopSidebarCollapse}
         className={clsx(
-          'hidden cursor-pointer items-center rounded-2xl px-3 py-1.5 text-(--secondary-color) transition-colors hover:bg-(--card-color) hover:text-(--main-color) lg:absolute lg:bottom-5 lg:left-3 lg:flex',
+          'hidden cursor-pointer items-center rounded-2xl px-3 py-1.5 text-(--secondary-color) transition-colors hover:bg-(--card-color) hover:text-(--main-color) lg:absolute lg:bottom-8 lg:left-5 lg:flex',
         )}
         aria-label={
           isDesktopSidebarCollapsed
