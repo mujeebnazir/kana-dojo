@@ -437,16 +437,16 @@
       "Bento"
     ],
     "correctIndex": 0
-  },
-  {
-  "question": "Which of these is a Japanese noodle dish served in broth? (Community variation 44)",
+  }
+],
+{
+  "question": "Which Japanese island is home to the city of Sapporo? (Community variation 5)",
   "difficulty": "easy",
   "answers": [
-    "Ramen",
-    "Takoyaki",
-    "Gyoza",
-    "Yakitori"
+    "Honshu",
+    "Hokkaido",
+    "Shikoku",
+    "Kyushu"
   ],
-  "correctIndex": 0
+  "correctIndex": 1
 }
-]
